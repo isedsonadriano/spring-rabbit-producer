@@ -7,4 +7,4 @@
 
 * Utilização de rabbitTemplate;
 
-* Esse é o projeto reponsável por criar a mensagem a partir de uma api rest;
+* Esse é o projeto reponsável por produzir a mensagem a partir de uma api rest;
