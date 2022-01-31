@@ -1,7 +1,4 @@
 # spring-rabbit-producer
-Spring boot + rabbitMQ
-
-# spring-rabbit-producer
 > Esse projeto foi um é uma poc para utilizar o rabbitmq como broker de mensagens;
 
 ### 
